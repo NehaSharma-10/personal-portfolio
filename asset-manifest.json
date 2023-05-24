@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.47f71e13.css",
-    "main.js": "/personal-portfolio/static/js/main.256d5e11.js",
+    "main.js": "/personal-portfolio/static/js/main.8c2ccce9.js",
     "static/media/weather-web.png": "/personal-portfolio/static/media/weather-web.d7ba74402f92e133ef7e.png",
     "static/media/NehaSharmaResume.pdf": "/personal-portfolio/static/media/NehaSharmaResume.7fc286d4abe9722029fb.pdf",
     "static/media/keep-app.png": "/personal-portfolio/static/media/keep-app.5cf395ca6b4503f1dd69.png",
     "index.html": "/personal-portfolio/index.html",
     "main.47f71e13.css.map": "/personal-portfolio/static/css/main.47f71e13.css.map",
-    "main.256d5e11.js.map": "/personal-portfolio/static/js/main.256d5e11.js.map"
+    "main.8c2ccce9.js.map": "/personal-portfolio/static/js/main.8c2ccce9.js.map"
   },
   "entrypoints": [
     "static/css/main.47f71e13.css",
-    "static/js/main.256d5e11.js"
+    "static/js/main.8c2ccce9.js"
   ]
 }
